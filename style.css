@@ -11,8 +11,8 @@
 :root {
   --bg-color: white;
   --second-bg-color: white;
-  --text-color: rgb(59, 1, 1);
-  --main-color: #AE1E41;
+  --text-color: #193540;
+  --main-color: #07B0F2;
 }
 html {
   font-size: 60%;
@@ -56,11 +56,8 @@ body{
 span{
   background: linear-gradient(
     270deg,
-    #46D5D9 10%,
-    #93D389 10%,
-    #F6C509 20%,
-    #F2622E 40%,
-    #AE1E41 50%
+    #07B0F2 10%,
+    #193540 100%
     
     
   

@@ -26,12 +26,9 @@ sobreMi.onclick = () => {
 const vcardData = `
 BEGIN:VCARD
 VERSION:3.0
-FN:Laura Bravo
-ORG:Bankiando
-TEL;TYPE=CELL:+57 3128788424
-EMAIL:inglaurabravo91@gmail.com
-URL:https://www.bankiando.com
-URL:https://www.instagram.com/bankiando
+FN:Lis Mejía
+ORG:Islander
+TEL;TYPE=CELL:+59 0690571696
 END:VCARD
   `.trim();
 
